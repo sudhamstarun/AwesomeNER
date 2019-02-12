@@ -10,9 +10,9 @@ Even though the project as such focuses on implementing a Bidirecitonal Long Sho
 
 ## References
 
-1. Sequence Tagging with Tensorflow using bi-LSTM + CRF with character embeddings for NER and POS by Guillaume Genthial [Link](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
-2. End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF . In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: LongPapers). Association for Computational Linguistics, Berlin, Germany [Link](https://arxiv.org/pdf/1603.01354.pdf)
-3. Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech Tagging and so on. An implementation by Hironsan Nakayama [Link](https://github.com/Hironsan/anago)
+1. _Sequence Tagging with Tensorflow using bi-LSTM + CRF with character embeddings for NER and POS by Guillaume Genthial_ [Link](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
+2. _End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF . In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: LongPapers). Association for Computational Linguistics, Berlin, Germany_ [Link](https://arxiv.org/pdf/1603.01354.pdf)
+3. _Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech Tagging and so on. An implementation by Hironsan Nakayama_ [Link](https://github.com/Hironsan/anago)
 
 ## Author
 
