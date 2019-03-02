@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The repository contains bidirectional LSTM-CRF for Named Entity Relationship on custom corpus using custom word embeddings using Tensorflow. This implementation also focuses on a finance domain specific training data extracted through rigorous data cleaning and processing.
+The repository contains bidirectional LSTM-CRF for Named Entity Relationship on custom corpus using custom word embeddings using Tensorflow. This implementation also focuses on a finance domain specific training data extracted through rigorous data cleaning and processing. <br>
 <br>
 It also contains an implementation of a state of the art Bi-directional LSTM-CNN-CRF architecture (Published at ACL'16. [Link To Paper](http://www.aclweb.org/anthology/P16-1101)) for Named Entity Recognition using Pytorch.
 
