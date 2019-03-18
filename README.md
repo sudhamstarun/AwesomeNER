@@ -8,7 +8,9 @@ It also contains an implementation of a state of the art Bi-directional LSTM-CNN
 
 ## Motivation
 
-After trying to search for a NER BiLSTM-CRF implementation for finance specific sentences, it could be concluded that there was very little prior work which was conducted in this area. So it is imperative for the implementation to be succesful, task specific word embeddings and tagged training neede to be created. So this project mostly goes through the whole process of word embedding generation and training of a BiLSTM-CRF model using the tagged training data.
+After trying to search for a NER BiLSTM-CRF implementation for finance specific sentences, it could be concluded that there was very little prior work which was conducted in this area. So it is imperative for the implementation to be succesful, task specific word embeddings and tagged training needed to be created. So this project mostly goes through the whole process of word embedding generation and training of a BiLSTM-CRF model using the tagged training data.
+
+However, given the nature of the data, it is quite difficult to actually clean and collect enough data to conduct LSTM-CRF implementation Therefore, the implementation in this sepcific repo for finance corpus will only be limited to CRF.
 
 Even though the project as such focuses on implementing a Bidirecitonal Long Short Term Memory - Conditional Random Field model to help us label sentences. This notebook mostly focuses on exploring a new methodology inspired from the paper. The contrasting difference between a BiLSTM-CNN-CRF and our project is that it also makes use of a CNN layer which helps us generate character embeddings on our corpus versus using just the word embeddings in our other implementation. Upon satisfactory results, the implementation would be updates as a pip library available to be used for future purposes.
 
