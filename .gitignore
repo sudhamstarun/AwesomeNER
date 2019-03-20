@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 bilstm-crf/
 .vscode/settings.json
+Data/
