@@ -1,0 +1,1632 @@
+Token,NE
+"20,00,000",B-Notional Amount
+USD,O
+9/20/2008,B-Expiration Date
+Agreement,O
+with,O
+Credit,B-Counterparty
+Suisse/First,I-Counterparty
+Boston,I-Counterparty
+dated,O
+01/10/04,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+"$23,878",O
+\\,
+"10,00,000",B-Notional Amount
+USD,O
+9/20/2008,B-Expiration Date
+Agreement,O
+with,O
+Credit,B-Counterparty
+Suisse/First,I-Counterparty
+Boston,I-Counterparty
+dated,O
+2/13/04,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+\\,
+"10,00,000",B-Notional Amount
+USD,O
+9/20/2008,B-Expiration Date
+Agreement,O
+with,O
+Credit,B-Counterparty
+Suisse/First,I-Counterparty
+Boston,I-Counterparty
+dated,O
+3/23/04,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+"$11,413",O
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+12/20/2009,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+10/28/2004,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.35%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Crown,B-Reference Entity
+"Americas,",I-Reference Entity
+Inc.,I-Reference Entity
+"3,77,022",O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+3/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+12/21/2004,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.35%,B-Fixed Rate
+per,O
+yeartimes,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Six,B-Reference Entity
+Flags,I-Reference Entity
+Theme,I-Reference Entity
+Parks.,I-Reference Entity
+"2,01,445",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+3/20/2011,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+03/03/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+1.85%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Syniverse,B-Reference Entity
+"Technologies,",I-Reference Entity
+Inc.,I-Reference Entity
+"11,765",O
+\\,
+"65,00,000",B-Notional Amount
+USD,O
+3/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+3/16/2005,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.20%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+"Inergy,",B-Reference Entity
+L.P.,I-Reference Entity
+"43,796",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+6/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+04/01/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Pinnacle,B-Reference Entity
+"Entertainment,",I-Reference Entity
+Inc.,I-Reference Entity
+"55,558",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+3/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+5/19/2005,O
+whereby,O
+thePortfolio,O
+will,O
+receive,B-Direction of Trade
+2.40%,B-Fixed Rate
+per,O
+yeartimes,O
+the,O
+notional,O
+amount.,O
+ThePortfolio,O
+makes,O
+a,O
+payment,O
+of,O
+thenotional,O
+amount,O
+only,O
+upon,O
+a,O
+defaultevent,O
+on,O
+the,O
+reference,O
+"entity,",O
+aRevolving,O
+Credit,O
+Agreement,O
+issuedby,O
+"Inergy,",B-Reference Entity
+L.P.,I-Reference Entity
+"$39,735",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+6/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+5/19/2005,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+3.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Rural,B-Reference Entity
+Cellular,I-Reference Entity
+Corp.,I-Reference Entity
+"44,216",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+6/20/2011,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+06/02/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.30%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Syniverse,B-Reference Entity
+"Technologies,",I-Reference Entity
+Inc.,I-Reference Entity
+"36,353",O
+\\,
+"70,00,000",B-Notional Amount
+USD,O
+9/21/2009,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+07/09/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+CSG,B-Reference Entity
+"Systems,",I-Reference Entity
+Inc.,I-Reference Entity
+"57,567",O
+\\,
+"20,00,000",B-Notional Amount
+USD,O
+9/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+07/09/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+1.95%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Pinnacle,B-Reference Entity
+"Entertainment,",I-Reference Entity
+Inc.,I-Reference Entity
+"30,077",O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+12/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+10/26/2005,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,a",O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+EPCO,B-Reference Entity
+"Holdings,",I-Reference Entity
+Inc.,I-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+12/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+12/03/05,O
+whereby,O
+thePortfolio,O
+will,O
+receive,B-Direction of Trade
+2.10%,B-Fixed Rate
+per,O
+yeartimes,O
+the,O
+notional,O
+amount.,O
+ThePortfolio,O
+makes,O
+a,O
+payment,O
+of,O
+thenotional,O
+amount,O
+only,O
+upon,O
+a,O
+defaultevent,O
+on,O
+the,O
+reference,O
+"entity,",O
+aRevolving,O
+Credit,O
+Agreement,O
+issuedby,O
+Avago,B-Reference Entity
+"Technologies,",I-Reference Entity
+Inc.,I-Reference Entity
+"$64,948",O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+3/20/2011,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothersdated,I-Counterparty
+01/06/06,O
+whereby,O
+thePortfolio,O
+will,O
+receive,B-Direction of Trade
+1.80%,B-Fixed Rate
+peryear,O
+times,O
+the,O
+notional,O
+amount.The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+ofthe,O
+notional,O
+amount,O
+only,O
+upon,O
+adefault,O
+event,O
+on,O
+the,O
+"referenceentity,",O
+a,O
+Revolving,O
+Credit,O
+Agreementissued,O
+by,O
+The,B-Reference Entity
+Hertz,I-Reference Entity
+Corp.,I-Reference Entity
+\\,
+"20,00,000",B-Notional Amount
+USD,O
+9/20/2008,B-Expiration Date
+Agreement,O
+with,O
+Credit,B-Counterparty
+Suisse/First,I-Counterparty
+Boston,I-Counterparty
+dated,O
+01/10/04,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+"$23,878",O
+\\,
+"10,00,000",B-Notional Amount
+USD,O
+9/20/2008,B-Expiration Date
+Agreement,O
+with,O
+Credit,B-Counterparty
+Suisse/First,I-Counterparty
+Boston,I-Counterparty
+dated,O
+2/13/04,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+\\,
+"10,00,000",B-Notional Amount
+USD,O
+9/20/2008,B-Expiration Date
+Agreement,O
+with,O
+Credit,B-Counterparty
+Suisse/First,I-Counterparty
+Boston,I-Counterparty
+dated,O
+3/23/04,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+"$11,413",O
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+12/20/2009,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+10/28/2004,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.35%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Crown,B-Reference Entity
+"Americas,",I-Reference Entity
+Inc.,I-Reference Entity
+"3,77,022",O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+3/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+12/21/2004,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.35%,B-Fixed Rate
+per,O
+yeartimes,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Six,B-Reference Entity
+Flags,I-Reference Entity
+Theme,I-Reference Entity
+Parks.,I-Reference Entity
+"2,01,445",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+3/20/2011,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+03/03/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+1.85%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Syniverse,B-Reference Entity
+"Technologies,",I-Reference Entity
+Inc.,I-Reference Entity
+"11,765",O
+\\,
+"65,00,000",B-Notional Amount
+USD,O
+3/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+3/16/2005,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.20%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+"Inergy,",B-Reference Entity
+L.P.,I-Reference Entity
+"43,796",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+6/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+04/01/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Pinnacle,B-Reference Entity
+"Entertainment,",I-Reference Entity
+Inc.,I-Reference Entity
+"55,558",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+3/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+5/19/2005,O
+whereby,O
+thePortfolio,O
+will,O
+receive,B-Direction of Trade
+2.40%,B-Fixed Rate
+per,O
+yeartimes,O
+the,O
+notional,O
+amount.,O
+ThePortfolio,O
+makes,O
+a,O
+payment,O
+of,O
+thenotional,O
+amount,O
+only,O
+upon,O
+a,O
+defaultevent,O
+on,O
+the,O
+reference,O
+"entity,",O
+aRevolving,O
+Credit,O
+Agreement,O
+issuedby,O
+"Inergy,",B-Reference Entity
+L.P.,I-Reference Entity
+"$39,735",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+6/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+5/19/2005,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+3.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Rural,B-Reference Entity
+Cellular,I-Reference Entity
+Corp.,I-Reference Entity
+"44,216",O
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+6/20/2011,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+06/02/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.30%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Syniverse,B-Reference Entity
+"Technologies,",I-Reference Entity
+Inc.,I-Reference Entity
+"36,353",O
+\\,
+"70,00,000",B-Notional Amount
+USD,O
+9/21/2009,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+07/09/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+CSG,B-Reference Entity
+"Systems,",I-Reference Entity
+Inc.,I-Reference Entity
+"57,567",O
+\\,
+"20,00,000",B-Notional Amount
+USD,O
+9/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+07/09/05,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+1.95%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+a,O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+Pinnacle,B-Reference Entity
+"Entertainment,",I-Reference Entity
+Inc.,I-Reference Entity
+"30,077",O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+12/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+10/26/2005,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+2.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.,O
+The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+of,O
+the,O
+notional,O
+amount,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,a",O
+Revolving,O
+Credit,O
+Agreement,O
+issued,O
+by,O
+EPCO,B-Reference Entity
+"Holdings,",I-Reference Entity
+Inc.,I-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+12/20/2010,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+dated,O
+12/03/05,O
+whereby,O
+thePortfolio,O
+will,O
+receive,B-Direction of Trade
+2.10%,B-Fixed Rate
+per,O
+yeartimes,O
+the,O
+notional,O
+amount.,O
+ThePortfolio,O
+makes,O
+a,O
+payment,O
+of,O
+thenotional,O
+amount,O
+only,O
+upon,O
+a,O
+defaultevent,O
+on,O
+the,O
+reference,O
+"entity,",O
+aRevolving,O
+Credit,O
+Agreement,O
+issuedby,O
+Avago,B-Reference Entity
+"Technologies,",I-Reference Entity
+Inc.,I-Reference Entity
+"$64,948",O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+3/20/2011,B-Expiration Date
+Agreement,O
+with,O
+Lehman,B-Counterparty
+Brothersdated,I-Counterparty
+01/06/06,O
+whereby,O
+thePortfolio,O
+will,O
+receive,B-Direction of Trade
+1.80%,B-Fixed Rate
+peryear,O
+times,O
+the,O
+notional,O
+amount.The,O
+Portfolio,O
+makes,O
+a,O
+payment,O
+ofthe,O
+notional,O
+amount,O
+only,O
+upon,O
+adefault,O
+event,O
+on,O
+the,O
+"referenceentity,",O
+a,O
+Revolving,O
+Credit,O
+Agreementissued,O
+by,O
+The,B-Reference Entity
+Hertz,I-Reference Entity
+Corp.,I-Reference Entity
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,

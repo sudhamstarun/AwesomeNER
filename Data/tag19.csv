@@ -1,0 +1,2301 @@
+Token,NE
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.30%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+Panama,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"8.875%,",O
+due,O
+09/30/2027.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.33%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.35%,B-Fixed Rate
+and,O
+The,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+PERU,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"8.75%,",O
+due,O
+11/21/2033.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.51%,B-Fixed Rate
+and,O
+The,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+Indonesia,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"6.75%,",O
+due,O
+03/10/2014.Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.78%,B-Fixed Rate
+and,O
+The,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+$,O
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.28%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+HSBC,B-Counterparty
+Bank,I-Counterparty
+USA,I-Counterparty
+11/20/07,B-Expiration Date
+"1,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.24%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.50%,",O
+due,O
+03/31/2030.Counterparty:,O
+HSBC,B-Counterparty
+Bank,I-Counterparty
+USA,I-Counterparty
+2/20/08,B-Expiration Date
+"1,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+1.01%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Chesapeake,B-Reference Entity
+Energy,I-Reference Entity
+"Corp,",I-Reference Entity
+"6.88%,",O
+due,O
+01/15/2016.Counterparty:,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+International,I-Counterparty
+6/20/12,B-Expiration Date
+$,O
+200,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.97%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Chesapeake,B-Reference Entity
+Energy,I-Reference Entity
+"Corp,",I-Reference Entity
+"6.88%,",O
+due,O
+01/15/2016.Counterparty:,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+International,I-Counterparty
+6/20/12,B-Expiration Date
+200,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+3.20%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+General,B-Reference Entity
+Motors,I-Reference Entity
+Acceptance,I-Reference Entity
+"Corp,",I-Reference Entity
+"6.875%,",O
+due,O
+8/28/2012,O
+Counterparty:Lehman,O
+Brothers,B-Counterparty
+Special,I-Counterparty
+"Financing,",I-Counterparty
+Inc.,I-Counterparty
+6/20/07,B-Expiration Date
+$,O
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.77%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+5/20/07,B-Expiration Date
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.32%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Morgan,B-Reference Entity
+Stanley,I-Reference Entity
+"BP,",I-Reference Entity
+"5.82%,",O
+due,O
+10/18/2016.Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/11,B-Expiration Date
+"6,500",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Avebury,B-Reference Entity
+Finance,I-Reference Entity
+CDO,I-Reference Entity
+"PLC,",I-Reference Entity
+"9.00%,",O
+due,O
+01/08/51,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+3.68%.Counterparty:,B-Fixed Rate
+Merrill,B-Counterparty
+Lynch,I-Counterparty
+International,I-Counterparty
+m,O
+01/08/51,B-Expiration Date
+"3,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.72%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.Counterparty:Barclays,O
+Bank,B-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+$,O
+800,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.71%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.Counterparty:Barclays,O
+Bank,B-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+100,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.72%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.,O
+Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/08,B-Expiration Date
+100,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.26%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.,I-Counterparty
+12/20/07,B-Expiration Date
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.26%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/07,B-Expiration Date
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.40%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+Indonesia,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"6.75%,",O
+due,O
+03/10/2014.Counterparty:Royal,O
+Bank,B-Counterparty
+of,I-Counterparty
+Scotland,I-Counterparty
+PLC,I-Counterparty
+12/20/08,I-Counterparty
+200,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.29%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Pemex,B-Reference Entity
+Project,I-Reference Entity
+Funding,I-Reference Entity
+Master,I-Reference Entity
+"Trust,",I-Reference Entity
+"9.5%,",O
+due,O
+9/15/2027.,O
+Counterparty:Barclays,O
+Bank,B-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,400",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.06%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+American,B-Reference Entity
+International,I-Reference Entity
+"Group,",I-Reference Entity
+Inc.,I-Reference Entity
+"5.60%,",O
+due,O
+10/18/2016Counterparty:,O
+Lehman,B-Counterparty
+"Securities,",I-Counterparty
+Inc.,I-Counterparty
+3/20/08,B-Expiration Date
+"2,800",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+5.00%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+floating,O
+rate,O
+based,O
+on,O
+the,O
+3.month,O
+United,O
+States,O
+DollarLIBOR.,O
+Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.,I-Counterparty
+6/20/37,B-Expiration Date
+"6,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+HSBC,B-Reference Entity
+Finance,I-Reference Entity
+Corp,I-Reference Entity
+"BP,",I-Reference Entity
+"6.38%,",O
+due,O
+10/15/2011,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.20%.,B-Fixed Rate
+Counterparty:,O
+Royal,B-Counterparty
+Bank,I-Counterparty
+of,I-Counterparty
+Scotland,I-Counterparty
+PLC,I-Counterparty
+12/20/11,B-Expiration Date
+"4,900",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Weyerhaeuser,B-Reference Entity
+"Co,",I-Reference Entity
+"6.75%,",O
+due,O
+3/15/2012,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.96%.,B-Fixed Rate
+Counterparty:,O
+UBS,B-Counterparty
+AG,I-Counterparty
+6/20/17,B-Expiration Date
+700,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Kellogg,B-Reference Entity
+"Co,",I-Reference Entity
+"5.75%,",O
+due,O
+02/02/01,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.11%.Counterparty:Lehman,B-Fixed Rate
+Brothers,B-Counterparty
+Special,I-Counterparty
+"Financing,",I-Counterparty
+Inc.,I-Counterparty
+6/20/11,B-Expiration Date
+$,O
+"2,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Diamond,B-Reference Entity
+Offshore,I-Reference Entity
+"Drill,",I-Reference Entity
+Zero,O
+"Coupon,",O
+due,O
+06/06/20,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.44%.Counterparty:,B-Fixed Rate
+Bank,B-Counterparty
+of,I-Counterparty
+America,I-Counterparty
+m,O
+6/20/17,B-Expiration Date
+"16,800",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.30%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+Panama,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"8.875%,",O
+due,O
+09/30/2027.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.33%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.35%,B-Fixed Rate
+and,O
+The,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+PERU,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"8.75%,",O
+due,O
+11/21/2033.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.51%,B-Fixed Rate
+and,O
+The,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+Indonesia,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"6.75%,",O
+due,O
+03/10/2014.Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/08,B-Expiration Date
+"1,700",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.78%,O
+and,O
+The,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.Counterparty:,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+$,O
+"1,700",B-Expiration Date
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.28%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+HSBC,B-Counterparty
+Bank,I-Counterparty
+USA,I-Counterparty
+11/20/07,B-Expiration Date
+"1,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.24%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.50%,",O
+due,O
+03/31/2030.Counterparty:,O
+HSBC,B-Counterparty
+Bank,I-Counterparty
+USA,I-Counterparty
+2/20/08,B-Expiration Date
+"1,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+1.01%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Chesapeake,B-Reference Entity
+Energy,I-Reference Entity
+"Corp,",I-Reference Entity
+"6.88%,",O
+due,O
+01/15/2016.Counterparty:,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+International,I-Counterparty
+6/20/12,B-Expiration Date
+$,O
+200,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.97%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Chesapeake,B-Reference Entity
+Energy,I-Reference Entity
+"Corp,",I-Reference Entity
+"6.88%,",O
+due,O
+01/15/2016.Counterparty:,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+International,I-Counterparty
+6/20/12,B-Expiration Date
+200,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+3.20%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+General,B-Reference Entity
+Motors,I-Reference Entity
+Acceptance,I-Reference Entity
+"Corp,",I-Reference Entity
+"6.875%,",O
+due,O
+8/28/2012,O
+Counterparty:Lehman,O
+Brothers,B-Counterparty
+Special,I-Counterparty
+"Financing,",I-Counterparty
+Inc.,I-Counterparty
+6/20/07,B-Expiration Date
+$,O
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.77%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+5/20/07,O
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.32%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Morgan,B-Reference Entity
+Stanley,I-Reference Entity
+"BP,",I-Reference Entity
+"5.82%,",O
+due,O
+10/18/2016.,O
+Counterparty:,O
+Royal,B-Counterparty
+Bank,I-Counterparty
+of,I-Counterparty
+Scotland,I-Counterparty
+PLC,I-Counterparty
+12/20/16,B-Expiration Date
+$,O
+"2,800",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+5.00%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+floating,O
+rate,O
+based,O
+on,O
+3.month,O
+United,O
+States,O
+DollarLIBOR.Counterparty:,O
+UBS,B-Counterparty
+AG,I-Counterparty
+6/18/09,B-Expiration Date
+"32,900",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+of,O
+default,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+iTraxx,B-Reference Entity
+Europe,I-Reference Entity
+HiVol,I-Reference Entity
+Series,I-Reference Entity
+Version,I-Reference Entity
+1,I-Reference Entity
+"Index,",I-Reference Entity
+the,O
+remaining,O
+interest,O
+payments,O
+on,O
+those,O
+defaulted,O
+securities,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.85%.,B-Fixed Rate
+Counterparty:,O
+HSBC,B-Counterparty
+Bank,I-Counterparty
+USA,I-Counterparty
+12/20/16,B-Expiration Date
+EUR,O
+"2,900",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+of,O
+default,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+iTraxx,B-Reference Entity
+Europe,I-Reference Entity
+HiVol,I-Reference Entity
+Series,I-Reference Entity
+Version,I-Reference Entity
+1,I-Reference Entity
+"Index,",I-Reference Entity
+the,O
+remaining,O
+interest,O
+payments,O
+on,O
+those,O
+defaulted,O
+securities,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.85%.Counterparty:,B-Fixed Rate
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/16,B-Expiration Date
+EUR,O
+"2,600",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+of,O
+default,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX.IG.5,I-Reference Entity
+7,I-Reference Entity
+year,I-Reference Entity
+"Index,",I-Reference Entity
+the,O
+remaining,O
+interest,O
+payments,O
+on,O
+those,O
+defaulted,O
+securities,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.142%.,B-Fixed Rate
+Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+Ser,I-Counterparty
+"vices,",I-Counterparty
+Inc.,I-Counterparty
+m,O
+12/20/12,B-Expiration Date
+"4,500",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.46%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+of,O
+default,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX.IG.5,I-Reference Entity
+10,I-Reference Entity
+Year,I-Reference Entity
+"Index,",I-Reference Entity
+the,O
+remaining,O
+interest,O
+payments,O
+on,O
+those,O
+defaulted,O
+securities.,O
+Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.,I-Counterparty
+m,O
+12/20/15,B-Expiration Date
+"3,200",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+of,O
+default,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX.NA.IG.7,I-Reference Entity
+"Index,",I-Reference Entity
+the,O
+remaining,O
+interest,O
+payments,O
+on,O
+those,O
+defaulted,O
+securities,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.65%.Counterparty:,B-Fixed Rate
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.,I-Counterparty
+12/20/16,B-Expiration Date
+"5,400",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+of,O
+default,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX.NA.IG.7,I-Reference Entity
+"Index,",I-Reference Entity
+the,O
+remaining,O
+interest,O
+payments,O
+on,O
+those,O
+defaulted,O
+securities,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.4%.,B-Fixed Rate
+Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/11,B-Expiration Date
+"6,500",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Avebury,B-Reference Entity
+Finance,I-Reference Entity
+CDO,I-Reference Entity
+"PLC,",I-Reference Entity
+"9.00%,",O
+due,O
+01/08/51,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+3.68%.Counterparty:,B-Fixed Rate
+Merrill,B-Counterparty
+Lynch,I-Counterparty
+International,I-Counterparty
+m,O
+01/08/51,B-Expiration Date
+"3,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.72%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.,O
+Counterparty:Barclays,O
+Bank,B-Counterparty
+PLC,I-Counterparty
+12/20/08,I-Counterparty
+$,O
+800,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.71%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.,O
+Counterparty:Barclays,O
+Bank,B-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+100,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.72%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Ukraine,B-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"7.65%,",O
+due,O
+06/11/2013.,O
+Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/08,B-Expiration Date
+100,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.26%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.,I-Counterparty
+12/20/07,B-Expiration Date
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.26%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+12/20/07,B-Expiration Date
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.40%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Republic,B-Reference Entity
+of,I-Reference Entity
+Indonesia,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"6.75%,",O
+due,O
+03/10/2014.Counterparty:Royal,O
+Bank,B-Counterparty
+of,I-Counterparty
+Scotland,I-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+200,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.29%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Pemex,B-Reference Entity
+Project,I-Reference Entity
+Funding,I-Reference Entity
+Master,I-Reference Entity
+"Trust,",I-Reference Entity
+"9.5%,",O
+due,O
+9/15/2027.,O
+Counterparty:Barclays,O
+Bank,B-Counterparty
+PLC,I-Counterparty
+12/20/08,B-Expiration Date
+"1,400",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.06%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+American,B-Reference Entity
+International,I-Reference Entity
+"Group,",I-Reference Entity
+Inc.,I-Reference Entity
+"5.60%,",O
+due,O
+10/18/2016Counterparty:,O
+Lehman,B-Counterparty
+"Securities,",I-Counterparty
+Inc.,I-Counterparty
+3/20/08,B-Expiration Date
+"2,800",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+HSBC,B-Reference Entity
+Finance,I-Reference Entity
+Corp,I-Reference Entity
+"BP,",I-Reference Entity
+"6.38%,",O
+due,O
+10/15/2011,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.20%.,B-Fixed Rate
+Counterparty:,O
+Royal,B-Counterparty
+Bank,I-Counterparty
+of,I-Counterparty
+Scotland,I-Counterparty
+PLC,I-Counterparty
+12/20/11,B-Expiration Date
+"4,900",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Weyerhaeuser,B-Reference Entity
+"Co,",I-Reference Entity
+"6.75%,",O
+due,O
+3/15/2012,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.96%.,B-Fixed Rate
+Counterparty:,O
+UBS,B-Counterparty
+AG,I-Counterparty
+6/20/17,B-Expiration Date
+700,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Kellogg,B-Reference Entity
+"Co,",I-Reference Entity
+"5.75%,",O
+due,O
+02/02/01,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.11%.Counterparty:Lehman,B-Fixed Rate
+Brothers,B-Counterparty
+Special,I-Counterparty
+"Financing,",I-Counterparty
+Inc.,I-Counterparty
+6/20/11,B-Expiration Date
+$,O
+"2,000",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+from,O
+the,O
+counterparty,O
+at,O
+the,O
+notional,O
+amount,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Diamond,B-Reference Entity
+Offshore,I-Reference Entity
+"Drill,",I-Reference Entity
+Zero,O
+"Coupon,",O
+due,O
+06/06/20,O
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.44%.Counterparty:,B-Fixed Rate
+Citibank,B-Counterparty
+NA,I-Counterparty
+6/20/17,B-Expiration Date
+"1,400",B-Notional Amount
+Receive,B-Direction of Trade
+from,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+of,O
+default,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX.EM.Counterparty:,I-Reference Entity
+Goldman,B-Counterparty
+Sachs,I-Counterparty
+International,I-Counterparty
+12/20/2011,B-Expiration Date
+$,O
+"16,000",B-Notional Amount
+\\,

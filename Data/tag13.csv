@@ -1,0 +1,2020 @@
+Token,NE
+"50,00,000",B-Notional Amount
+USD,O
+10/15/03,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+1/21/03,O
+to,O
+pay,B-Direction of Trade
+11.20%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Brazil,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+10/16/03,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+10/11/00,O
+to,O
+pay,B-Direction of Trade
+2.83%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+the,O
+Philippines,B-Reference Entity
+\\,
+"4,00,00,000",B-Notional Amount
+USD,O
+12/19/03,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+4/16/03,O
+to,O
+pay,B-Direction of Trade
+5.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Gazprom,B-Reference Entity
+Loan,I-Reference Entity
+Facility.,I-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+4/13/04,B-Expiration Date
+Agreement,O
+with,O
+Goldman,B-Counterparty
+Sachs,I-Counterparty
+International,I-Counterparty
+dated,O
+04/04/01,O
+to,O
+pay,B-Direction of Trade
+11.50%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Turkey.,B-Reference Entity
+\\,
+"80,00,000",B-Notional Amount
+USD,O
+4/15/04,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+3/13/02,O
+to,O
+pay,B-Direction of Trade
+5.75%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Brazil.,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+4/15/04,B-Expiration Date
+Agreement,O
+with,O
+Bank,B-Counterparty
+of,I-Counterparty
+America,I-Counterparty
+N.A.,I-Counterparty
+dated,O
+11/28/01,O
+to,O
+pay,B-Direction of Trade
+7.95%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Brazil.,B-Reference Entity
+\\,
+"20,00,000",B-Notional Amount
+USD,O
+4/23/05,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+4/22/03,O
+to,O
+pay,B-Direction of Trade
+6.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Lebanon.,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+6/18/05,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+6/18/02,O
+to,O
+pay,B-Direction of Trade
+2.35%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Philippines.,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+7/15/05,B-Expiration Date
+Agreement,O
+with,O
+Banque,B-Counterparty
+Paribas,I-Counterparty
+dated,O
+10/18/02,O
+to,O
+pay,B-Direction of Trade
+10.00%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Banco,B-Reference Entity
+Latinoamericano,I-Reference Entity
+de,I-Reference Entity
+Exportaciones,I-Reference Entity
+SA,I-Reference Entity
+Euro,I-Reference Entity
+Medium,I-Reference Entity
+Term,I-Reference Entity
+"Notes,",I-Reference Entity
+"7.71%,",O
+due,O
+9/22/05.,O
+\\,
+"70,00,000",B-Notional Amount
+USD,O
+08/05/05,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+7/31/02,O
+to,O
+pay,B-Direction of Trade
+3.35%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Philippines.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+11/06/05,B-Expiration Date
+Agreement,O
+with,O
+JP,O
+Morgan,B-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,I-Counterparty
+11/05/02,O
+to,O
+pay,B-Direction of Trade
+9.30%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Colombia.,B-Reference Entity
+\\,
+"1,10,00,000",B-Notional Amount
+USD,O
+3/22/06,B-Expiration Date
+Agreement,O
+with,O
+Bank,B-Counterparty
+of,I-Counterparty
+"America,",I-Counterparty
+N.A.,I-Counterparty
+dated,O
+08/12/03,O
+to,O
+pay,B-Direction of Trade
+1.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Petroleos,B-Reference Entity
+"Mexicanos,",I-Reference Entity
+9.00%,O
+due,O
+6/01/07.,O
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+04/03/06,B-Expiration Date
+Agreement,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+3/29/01,O
+to,O
+pay,B-Direction of Trade
+0.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+Banco,B-Reference Entity
+Santander,I-Reference Entity
+Senior,I-Reference Entity
+Bonds,I-Reference Entity
+or,I-Reference Entity
+loans.,I-Reference Entity
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+04/06/06,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+04/03/01,O
+to,O
+pay,B-Direction of Trade
+0.26%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Santander,I-Reference Entity
+Senior,I-Reference Entity
+Bonds,I-Reference Entity
+or,I-Reference Entity
+loans.,I-Reference Entity
+\\,
+"3,00,00,000",B-Notional Amount
+USD,O
+04/10/06,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+04/05/01,O
+to,O
+pay,B-Direction of Trade
+0.28%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Santander,I-Reference Entity
+Senior,I-Reference Entity
+Bonds,I-Reference Entity
+or,I-Reference Entity
+loans.,I-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+04/10/06,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+04/04/01,O
+to,O
+pay,B-Direction of Trade
+0.26%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Santander,I-Reference Entity
+Senior,I-Reference Entity
+Bonds,I-Reference Entity
+or,I-Reference Entity
+loans.,I-Reference Entity
+\\,
+"2,50,00,000",B-Notional Amount
+USD,O
+4/30/06,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+4/25/01,O
+to,O
+pay,B-Direction of Trade
+0.27%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Banco,I-Reference Entity
+Bilbao,I-Reference Entity
+Vizcaya,I-Reference Entity
+Senior,I-Reference Entity
+Bonds,I-Reference Entity
+or,I-Reference Entity
+loans.,I-Reference Entity
+\\,
+"2,00,00,000",B-Notional Amount
+USD,O
+08/09/06,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+08/06/02,O
+to,O
+pay,B-Direction of Trade
+0.42%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+Banco,B-Reference Entity
+Bilbao,I-Reference Entity
+Vizcaya,I-Reference Entity
+Argentaria,I-Reference Entity
+"SA,5.0%",I-Reference Entity
+due,O
+6/24/08.,O
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+2/18/07,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+2/13/02,O
+to,O
+pay,B-Direction of Trade
+4.60%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Russia.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+2/26/07,B-Expiration Date
+Agreement,O
+with,O
+Salomon,B-Counterparty
+Brothers,I-Counterparty
+International,I-Counterparty
+Limited,I-Counterparty
+dated,O
+2/21/02,O
+to,O
+pay,B-Direction of Trade
+2.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+South,B-Reference Entity
+Africa.,I-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+6/27/07,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+06/24/02,O
+to,O
+pay,B-Direction of Trade
+0.33%,B-Fixed Rate
+per,O
+quarter,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Bilbao,I-Reference Entity
+Vizcaya,I-Reference Entity
+of,I-Reference Entity
+Spain.,I-Reference Entity
+dated,O
+6/27/02,B-Expiration Date
+to,O
+pay,B-Direction of Trade
+"98,673",O
+0.64%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Bank,B-Reference Entity
+of,I-Reference Entity
+China,I-Reference Entity
+bonds,I-Reference Entity
+or,I-Reference Entity
+loans.,I-Reference Entity
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+07/02/07,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+6/27/02,O
+to,O
+pay,B-Direction of Trade
+0.64%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+China.,B-Reference Entity
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+9/27/07,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+9/26/02,O
+to,O
+pay,B-Direction of Trade
+0.33%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+HSBC,B-Reference Entity
+Bank,I-Reference Entity
+"Plc,",I-Reference Entity
+3,O
+month,O
+LIBOR,O
++,O
+".05%,.",O
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+10/10/07,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+10/09/02,O
+to,O
+pay,B-Direction of Trade
+0.70%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Bilbao,I-Reference Entity
+Vizcaya,I-Reference Entity
+Argentaria,I-Reference Entity
+"SA,5.0%",I-Reference Entity
+due,O
+6/24/08.,O
+\\,
+"80,00,000",B-Notional Amount
+USD,O
+10/19/07,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+10/18/02,O
+to,O
+pay,B-Direction of Trade
+15.00%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Venezuela.,B-Expiration Date
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+10/22/07,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+10/21/02,O
+to,O
+pay,B-Direction of Trade
+0.54%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Bilbao,I-Reference Entity
+Vizcaya,I-Reference Entity
+Argentaria,I-Reference Entity
+"SA,5.0%",I-Reference Entity
+due,O
+6/24/08.,O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+10/23/07,B-Expiration Date
+Agreement,O
+with,O
+JP,O
+Morgan,B-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,I-Counterparty
+10/22/02,O
+to,O
+pay,B-Direction of Trade
+0.48%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Bilbao,I-Reference Entity
+Vizcaya,I-Reference Entity
+Argentaria,I-Reference Entity
+"SA,5.0%",I-Reference Entity
+due,O
+6/24/08.,O
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+10/30/07,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+10/29/02,O
+to,O
+pay,B-Direction of Trade
+0.44%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Banco,B-Reference Entity
+Bilbao,I-Reference Entity
+Vizcaya,I-Reference Entity
+Argentaria,I-Reference Entity
+"SA,5.0%",I-Reference Entity
+due,O
+6/24/08..,O
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+11/25/07,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+11/22/02,O
+to,O
+pay,B-Direction of Trade
+1.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Endesa,B-Reference Entity
+SA,I-Reference Entity
+of,I-Reference Entity
+"Spain,",I-Reference Entity
+4.38%,O
+due,O
+6/18/09.,O
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+11/27/07,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+11/26/02,O
+to,O
+pay,B-Direction of Trade
+1.10%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Endesa,B-Reference Entity
+SA,I-Reference Entity
+of,I-Reference Entity
+"Spain,",I-Reference Entity
+5.25%,O
+due,O
+2/22/06.,O
+\\,
+"4,00,00,000",B-Notional Amount
+USD,O
+12/20/04,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+4/16/03,O
+to,O
+receive,B-Direction of Trade
+5.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Gazprom,B-Reference Entity
+Loan,I-Reference Entity
+Facility.,I-Reference Entity
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+1/21/06,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+7/18/03,O
+to,O
+receive,B-Direction of Trade
+5.40%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Gazprom,B-Reference Entity
+Loan,I-Reference Entity
+Facility.,I-Reference Entity
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+06/08/06,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Guaranty,I-Counterparty
+Trust,I-Counterparty
+Company,I-Counterparty
+dated,O
+06/05/01,O
+to,O
+receive,B-Direction of Trade
+2.95%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Mexico.,B-Reference Entity
+\\,
+"3,50,00,000",B-Notional Amount
+USD,O
+07/05/06,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+07/01/03,O
+to,O
+receive,B-Direction of Trade
+5.00%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Gazprom,B-Expiration Date
+Loan,I-Expiration Date
+Facility.,I-Expiration Date
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+8/21/06,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+7/18/03,O
+to,O
+receive,B-Direction of Trade
+5.45%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+Gazprom,B-Reference Entity
+Loan,I-Reference Entity
+Facility.,I-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+9/27/06,B-Expiration Date
+Agreement,O
+with,O
+Merrill,B-Counterparty
+Lynch,I-Counterparty
+International,I-Counterparty
+dated,O
+11/01/02,O
+to,O
+receive,B-Direction of Trade
+5.70%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+The,B-Reference Entity
+Dominican,I-Reference Entity
+Republic.,I-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+05/07/08,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+05/06/03,O
+to,O
+receive,B-Direction of Trade
+9.65%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Brazil.,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+5/30/08,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+5/29/03,O
+to,O
+receive,B-Direction of Trade
+8.65%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Turkey.,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+08/06/08,B-Expiration Date
+Agreement,O
+with,O
+"Bear,",B-Counterparty
+Stearns,I-Counterparty
+International,I-Counterparty
+Limited,I-Counterparty
+dated,O
+08/05/03,O
+to,O
+receive,B-Direction of Trade
+1.10%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Trinidad,B-Expiration Date
+&,I-Expiration Date
+Tobago.,I-Expiration Date
+\\,
+"20,00,000",B-Notional Amount
+USD,O
+9/20/08,B-Expiration Date
+Agreement,O
+with,O
+UBS,B-Counterparty
+AG,I-Counterparty
+dated,O
+6/26/03,O
+to,O
+receive,B-Direction of Trade
+9.20%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+The,B-Reference Entity
+Dominican,I-Reference Entity
+Republic.,I-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+9/20/08,B-Expiration Date
+Agreement,O
+with,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"2,10,011",I-Counterparty
+"Services,",I-Counterparty
+"Inc.,",I-Counterparty
+dated,O
+07/09/03,O
+to,O
+receive,B-Direction of Trade
+5.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Columbia.,B-Reference Entity
+\\,
+"1,20,00,000",B-Notional Amount
+USD,O
+03/05/10,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+03/04/03,O
+to,O
+receive,B-Direction of Trade
+9.10%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Turkey.,B-Reference Entity
+\\,
+"30,00,000",B-Notional Amount
+USD,O
+3/31/10,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+3/28/03,O
+to,O
+receive,B-Direction of Trade
+4.70%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Egypt.,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+7/30/12,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+7/25/02,O
+to,O
+receive,B-Direction of Trade
+3.05%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Chile.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+08/12/12,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+08/07/02,O
+to,O
+receive,B-Direction of Trade
+4.42%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Mexico.,B-Reference Entity
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+9/19/12,B-Expiration Date
+Agreement,O
+with,O
+Bank,B-Counterparty
+of,I-Counterparty
+America,I-Counterparty
+N.A.dated,I-Counterparty
+9/18/02,O
+to,O
+receive,B-Direction of Trade
+4.07%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Mexico.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+10/03/12,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+10/02/02,O
+to,O
+receive,B-Direction of Trade
+4.12%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Mexico.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+10/04/12,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+10/03/02,O
+to,O
+receive,B-Direction of Trade
+2.95%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Chile.,B-Reference Entity
+\\,
+"50,00,000",B-Notional Amount
+USD,O
+11/05/12,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+11/04/02,O
+to,O
+receive,B-Direction of Trade
+6.50%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Jamaica.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+01/08/13,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+01/07/03,O
+to,O
+receive,B-Direction of Trade
+7.15%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Columbia.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+01/09/13,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+01/08/03,O
+to,O
+receive,B-Direction of Trade
+8.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Turkey.,B-Reference Entity
+\\,
+"70,00,000",B-Notional Amount
+USD,O
+01/10/13,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+01/09/03,O
+to,O
+receive,B-Direction of Trade
+7.50%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Columbia.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+02/07/13,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+02/06/03,O
+to,O
+receive,B-Direction of Trade
+8.30%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Columbia.,B-Reference Entity
+\\,
+"1,50,00,000",B-Notional Amount
+USD,O
+02/11/13,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+02/10/03,O
+to,O
+receive,B-Direction of Trade
+3.05%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Brazil.,B-Reference Entity
+"1,00,00,000",B-Notional Amount
+USD,O
+06/06/13,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+06/05/03,O
+to,O
+receive,B-Direction of Trade
+9.40%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Russia.,B-Reference Entity
+\\,
+"2,00,00,000",B-Notional Amount
+USD,O
+06/12/13,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+06/11/03,O
+to,O
+receive,B-Direction of Trade
+9.08%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Brazil.,B-Reference Entity
+\\,
+"2,00,00,000",B-Notional Amount
+USD,O
+6/13/13,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+06/12/03,O
+to,O
+receive,B-Direction of Trade
+3.25%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Russia.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+6/24/13,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+6/23/03,O
+to,O
+receive,B-Direction of Trade
+3.32%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Russia.,B-Reference Entity
+"50,00,000",B-Notional Amount
+USD,O
+6/24/13,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+6/23/03,O
+to,O
+receive,B-Direction of Trade
+3.35%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Russia.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+9/20/13,B-Expiration Date
+Agreement,O
+with,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+dated,O
+6/23/03,O
+to,O
+receive,B-Direction of Trade
+3.35%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Russia.,B-Reference Entity
+\\,
+"1,00,00,000",B-Notional Amount
+USD,O
+10/05/17,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+Bank,I-Counterparty
+dated,O
+10/04/02,O
+to,O
+receive,B-Direction of Trade
+4.20%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+fund,O
+receives,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+in,O
+Mexico.,B-Reference Entity
+\\,

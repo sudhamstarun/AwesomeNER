@@ -1,0 +1,424 @@
+Token,NE
+Receive,B-Direction of Trade
+from,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+First,I-Counterparty
+Boston,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Deutsche,B-Reference Entity
+Bank,I-Reference Entity
+"AG,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Deutsche,O
+Bank,O
+"AG,",O
+2.07%,O
+"4/11/18,",O
+and,O
+pay,O
+quarterly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+1%,B-Fixed Rate
+Upfront,O
+Premium,O
+Received/Paid,O
+"$493,000",O
+Dec.,B-Expiration Date
+2018,I-Expiration Date
+$,O
+"6,500",B-Notional Amount
+281,O
+\\,
+Receive,B-Direction of Trade
+from,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+First,I-Counterparty
+Boston,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+National,B-Reference Entity
+Australia,I-Reference Entity
+Bank,I-Reference Entity
+"Ltd.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+National,O
+Australia,O
+Bank,O
+"Ltd.,",O
+4.63%,O
+"2/10/20,",O
+and,O
+pay,O
+quarterly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+1%,B-Fixed Rate
+Upfront,O
+Premium,O
+Received/Paid,O
+"$825,000",O
+Dec.,B-Expiration Date
+2018,I-Expiration Date
+"6,500",B-Notional Amount
+548,O
+\\,
+Receive,B-Direction of Trade
+from,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+First,I-Counterparty
+"Boston,",I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+UFJ,B-Reference Entity
+Finance,I-Reference Entity
+Aruba,I-Reference Entity
+"AEC,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+UFJ,O
+Finance,O
+Aruba,O
+AEC,O
+6.75%,O
+"7/15/13,",O
+and,O
+pay,O
+quarterly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+1%,B-Fixed Rate
+Upfront,O
+Premium,O
+Received/Paid,O
+"$177,000",O
+March,B-Expiration Date
+2018,I-Expiration Date
+$,O
+"5,500",B-Notional Amount
+$,O
+412,O
+\\,
+Receive,B-Direction of Trade
+from,O
+JPMorgan,B-Counterparty
+"Chase,",I-Counterparty
+Inc.,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Deutsche,B-Reference Entity
+Bank,I-Reference Entity
+"AG,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Deutsche,O
+Bank,O
+"AG,",O
+5.13%,O
+"8/31/17,",O
+and,O
+pay,O
+quarterly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+1%,B-Fixed Rate
+Upfront,O
+Premium,O
+Received/Paid,O
+"$347,000",O
+March,B-Expiration Date
+2019,I-Expiration Date
+"4,085",B-Notional Amount
+189,O
+\\,
+Receive,B-Direction of Trade
+monthly,O
+a,O
+fixed,O
+rate,O
+of,O
+0.15%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+pay,O
+to,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+First,I-Counterparty
+Boston,I-Counterparty
+upon,O
+each,O
+credit,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+ABX,B-Reference Entity
+AA,I-Reference Entity
+7.01,I-Reference Entity
+"Index,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+Rating.C,O
+Upfront,O
+Premium,O
+Received/Paid,O
+"$2,116,000h",O
+Sept.,B-Expiration Date
+2037,I-Expiration Date
+"4,956",B-Notional Amount
+"4,680",O
+\\,
+Receive,B-Direction of Trade
+monthly,O
+a,O
+fixed,O
+rate,O
+of,O
+0.15%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+pay,O
+to,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+First,I-Counterparty
+Boston,I-Counterparty
+upon,O
+each,O
+credit,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+ABX,B-Reference Entity
+AA,I-Reference Entity
+7.01,I-Reference Entity
+"Index,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+Rating.C,O
+Upfront,O
+Premium,O
+Received/Paid,O
+"$5,250,000h",O
+Sept.,B-Expiration Date
+2037,I-Expiration Date
+"13,467",B-Notional Amount
+"12,718",O
+\\,
+Receive,B-Direction of Trade
+monthly,O
+a,O
+fixed,O
+rate,O
+of,O
+0.15%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+pay,O
+to,O
+JPMorgan,B-Counterparty
+"Chase,",I-Counterparty
+Inc.,I-Counterparty
+upon,O
+each,O
+credit,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+ABX,B-Reference Entity
+AA,I-Reference Entity
+7.01,I-Reference Entity
+"Index,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+Rating.C,O
+Upfront,O
+Premium,O
+Received/Paid,O
+"$1,302,000h",O
+Sept.,B-Expiration Date
+2037,I-Expiration Date
+"3,017",B-Notional Amount
+"2,849",O
+\\,
+Receive,B-Direction of Trade
+monthly,O
+a,O
+fixed,O
+rate,O
+of,O
+0.15%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+pay,O
+to,O
+JPMorgan,B-Counterparty
+"Chase,",I-Counterparty
+Inc.,I-Counterparty
+upon,O
+each,O
+credit,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+ABX,B-Reference Entity
+AA,I-Reference Entity
+7.01,I-Reference Entity
+"Index,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+Rating.C,O
+Upfront,O
+Premium,O
+Received/Paid,O
+"$4,231,000h",O
+Sept.,B-Expiration Date
+2037,I-Expiration Date
+"10,074",B-Notional Amount
+"9,513",O
+\\,
+Receive,B-Direction of Trade
+monthly,O
+a,O
+fixed,O
+rate,O
+of,O
+0.15%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+pay,O
+to,O
+Morgan,B-Counterparty
+"Stanley,",I-Counterparty
+Inc.,I-Counterparty
+upon,O
+each,O
+credit,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+ABX,B-Reference Entity
+AA,I-Reference Entity
+7.01,I-Reference Entity
+"Index,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+Rating.C,O
+Upfront,O
+Premium,O
+Received/Paid,O
+"$2,754,000h",O
+Sept.,B-Expiration Date
+2037,I-Expiration Date
+"5,495",B-Notional Amount
+"5,189",O
+Swap,O
+Agreements,O
+.,O

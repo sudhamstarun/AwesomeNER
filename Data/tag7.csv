@@ -1,0 +1,447 @@
+Token,NE
+"$9,700,000",O
+Pay,B-Notional Amount
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.35%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX,I-Reference Entity
+N.A.,I-Reference Entity
+Investment,O
+Grade,O
+"8,",O
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount.June,O
+2012,B-Expiration Date
+"$273,637",I-Expiration Date
+"11,30,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.40%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Bank,B-Counterparty
+of,I-Counterparty
+America,I-Counterparty
+N.A.,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+"FHLMC,",B-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+"FHLMC,",O
+"VRN,",O
+"5.08%,",O
+2/7/11.December,O
+2012,B-Expiration Date
+"4,305",I-Expiration Date
+"12,95,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.63%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Morgan,B-Reference Entity
+"Stanley,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+Morgan,O
+"Stanley,",O
+"6.60%,",O
+4/1/12.September,O
+2012,B-Expiration Date
+"30,422",I-Expiration Date
+"11,00,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equalto,O
+0.72%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Barclays,B-Reference Entity
+Bank,I-Reference Entity
+"plc,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+Barclays,O
+Bank,O
+"plc,",O
+"VRN,",O
+"4.57%,",O
+10/27/08.,O
+December,B-Expiration Date
+2012,I-Expiration Date
+"13,284",O
+"5,80,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equalto,O
+0.73%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+American,B-Reference Entity
+International,I-Reference Entity
+"Group,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+American,O
+International,O
+"Group,",O
+"Inc.,",O
+"4.25%,",O
+5/15/13.,O
+December,B-Expiration Date
+2012,I-Expiration Date
+"5,968",O
+"5,80,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equalto,O
+2.45%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Bank,B-Counterparty
+of,I-Counterparty
+America,I-Counterparty
+N.A.,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Toll,B-Reference Entity
+"Brothers,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+Toll,O
+Brothers,O
+Finance,O
+"Corp.,",O
+"6.875%,",O
+11/15/12.,O
+December,B-Expiration Date
+2012,I-Expiration Date
+453,O
+"5,80,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+2.85%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Toll,B-Reference Entity
+"Brothers,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+Toll,O
+Brothers,O
+Finance,O
+"Corp.,",O
+"6.875%,",O
+11/15/12.,O
+December,B-Expiration Date
+2012,I-Expiration Date
+"8,904",O
+"2,40,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.70%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Rohm,B-Reference Entity
+Haas,I-Reference Entity
+"Company,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+Rohm,O
+Haas,O
+"Company,",O
+"7.85%,",O
+7/15/29.,O
+March,B-Expiration Date
+2013,I-Expiration Date
+"1,915",O
+"26,50,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.12%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Pfizer,B-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+Pfizer,O
+"Inc.,",O
+"4.65%,",O
+3/1/18.,O
+March,B-Expiration Date
+2017,I-Expiration Date
+"37,082",O
+"12,90,000",B-Notional Amount
+\\,
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.64%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+JPMorgan,B-Reference Entity
+Chase,I-Reference Entity
+"Co.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+JPMorgan,O
+Chase,O
+"Co.,",O
+"6.75%,",O
+2/1/11.,O
+September,B-Expiration Date
+2017,I-Expiration Date
+"38,508",O

@@ -1,0 +1,243 @@
+Token,NE
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+RadioShack,B-Reference Entity
+Corp.,I-Reference Entity
+and,O
+pay,O
+1.16%,B-Fixed Rate
+"Broker,",O
+UBS,B-Counterparty
+Warburg,I-Counterparty
+Expires,O
+December,B-Expiration Date
+2010,I-Expiration Date
+"USD7,625",B-Notional Amount
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+Limited,B-Reference Entity
+"Brands,",I-Reference Entity
+Inc.,I-Reference Entity
+and,O
+pay,O
+1.065,B-Fixed Rate
+"Broker,",O
+UBS,B-Counterparty
+Warburg,I-Counterparty
+Expires,O
+December,B-Expiration Date
+2010,I-Expiration Date
+"USD7,625",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+of,O
+4.17%,B-Fixed Rate
+and,O
+pay,O
+3.50%,O
+on,O
+Treasury,B-Reference Entity
+Inflation,I-Reference Entity
+Protected,I-Reference Entity
+Securities(TIPS),I-Reference Entity
+adjusted,O
+principal,O
+"Broker,",O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.Expires,I-Counterparty
+January,B-Expiration Date
+2011,I-Expiration Date
+USD,B-Notional Amount
+"16,600",I-Notional Amount
+\\,
+Sold,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+SLM,B-Reference Entity
+Corp.and,I-Reference Entity
+receive,O
+5.10%,B-Fixed Rate
+"Broker,",O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+Special,I-Counterparty
+Finance,I-Counterparty
+Expires,O
+March,B-Expiration Date
+2011,I-Expiration Date
+"USD13,000",B-Notional Amount
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+Sara,B-Reference Entity
+Lee,I-Reference Entity
+Corp.,I-Reference Entity
+and,O
+pay,O
+0.60%,B-Fixed Rate
+"Broker,",O
+JPMorgan,B-Counterparty
+Chase,I-Counterparty
+Expires,O
+March,B-Expiration Date
+2011,I-Expiration Date
+"USD7,720",B-Notional Amount
+\\,
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+Limited,B-Reference Entity
+"Brands,",I-Reference Entity
+Inc.,I-Reference Entity
+and,O
+pay,O
+0.73%,B-Fixed Rate
+"Broker,",O
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+Special,I-Counterparty
+Finance,I-Counterparty
+Expires,O
+March,B-Expiration Date
+2011,I-Expiration Date
+"USD7,720",B-Notional Amount
+\\,
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+Computer,B-Reference Entity
+Sciences,I-Reference Entity
+Corp.,I-Reference Entity
+and,O
+pay,O
+0.88%,B-Fixed Rate
+"Broker,",O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+Services,I-Counterparty
+Inc.,I-Counterparty
+Expires,O
+June,B-Expiration Date
+2011,I-Expiration Date
+"USD7,770",B-Notional Amount
+\\,
+Sold,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+SLM,B-Reference Entity
+Corp,I-Reference Entity
+and,O
+receive,O
+5.00%,B-Fixed Rate
+"Broker,",O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+PLC,I-Counterparty
+Expires,O
+March,B-Expiration Date
+2013,I-Expiration Date
+"USD5,000",B-Notional Amount
+\\,
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX,I-Reference Entity
+North,I-Reference Entity
+America,I-Reference Entity
+Investment,I-Reference Entity
+Grade,I-Reference Entity
+Index,I-Reference Entity
+Series,I-Reference Entity
+10,I-Reference Entity
+Class,I-Reference Entity
+V1,I-Reference Entity
+and,O
+pay,O
+1.55,B-Fixed Rate
+"%Broker,",I-Fixed Rate
+Lehman,B-Counterparty
+Brothers,I-Counterparty
+Special,I-Counterparty
+Finance,I-Counterparty
+Expires,O
+June,B-Expiration Date
+2013,I-Expiration Date
+"USD29,300",B-Notional Amount
+\\,
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX,I-Reference Entity
+North,I-Reference Entity
+America,I-Reference Entity
+Investment,I-Reference Entity
+Grade,I-Reference Entity
+Index,I-Reference Entity
+10,I-Reference Entity
+Series,I-Reference Entity
+V1and,I-Reference Entity
+pay,O
+1.55%,B-Fixed Rate
+"Broker,",O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.,I-Counterparty
+Expires,O
+June,B-Expiration Date
+2013,I-Expiration Date
+"USD28,000",B-Notional Amount
+\\,
+Bought,B-Direction of Trade
+credit,O
+default,O
+protection,O
+on,O
+Eastman,B-Reference Entity
+Chemical,I-Reference Entity
+Co.,I-Reference Entity
+and,O
+pay,O
+0.68%,B-Fixed Rate
+"Broker,",O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+Services,I-Counterparty
+Inc.,I-Counterparty
+Expires,O
+September,B-Expiration Date
+2013,I-Expiration Date
+"USD7,800",B-Notional Amount

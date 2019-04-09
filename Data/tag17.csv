@@ -1,0 +1,249 @@
+Token,NE
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.70%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+"Federation,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+5/24/05,B-Expiration Date
+"5,500",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.70%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+"Federation,5.00%,",I-Reference Entity
+due,O
+03/31/2030.Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+05/24/2005,B-Expiration Date
+"1,590",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.61%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+"Federation,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Goldman,B-Counterparty
+SachsInternational,I-Counterparty
+03/20/2007,B-Expiration Date
+425,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.70%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+"Federation,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Goldman,B-Counterparty
+SachsInternational,I-Counterparty
+03/20/2007,B-Expiration Date
+175,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.625%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Mexican,B-Reference Entity
+GovernmentInternational,I-Reference Entity
+"Bond,",I-Reference Entity
+"11.50%,",O
+due,O
+05/15/2026.Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+05/20/2005,B-Expiration Date
+180,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.65%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+United,B-Reference Entity
+Mexican,I-Reference Entity
+"States,7.50%,",I-Reference Entity
+due,O
+04/08/2033.Counterparty:,O
+Barclays,B-Counterparty
+PLC,I-Counterparty
+05/20/2005,B-Expiration Date
+60,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+3.20%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+General,B-Reference Entity
+Motors,I-Reference Entity
+"AcceptanceCorp,",I-Reference Entity
+"6.875%,",O
+due,O
+8/28/2012Counterparty:,O
+Lehman,B-Counterparty
+BrothersSpecial,I-Counterparty
+Financing,I-Counterparty
+Inc.,I-Counterparty
+06/20/2007,B-Expiration Date
+300,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+2.80%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+General,B-Reference Entity
+Motors,I-Reference Entity
+"AcceptanceCorp,",I-Reference Entity
+"6.875%,",O
+due,O
+8/28/2012Counterparty:,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+06/20/2006,B-Expiration Date
+800,B-Notional Amount
+\\,

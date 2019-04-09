@@ -1,0 +1,79 @@
+Token,NE
+"$2,000,000",B-Notional Amount
+USD,I-Notional Amount
+6/20/2011,B-Expiration Date
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+dated,O
+6/17/06,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+receive,B-Direction of Trade
+0.35%,B-Fixed Rate
+per,O
+yeartimes,O
+the,O
+notional,O
+amount.,O
+\\,
+The,
+Portfolio,O
+makes,O
+a,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+HSBC,B-Reference Entity
+Capital,I-Reference Entity
+"Funding,",I-Reference Entity
+PLC.,I-Reference Entity
+$325,O
+"$2,000,000",O
+USD,B-Notional Amount
+6/20/2011,B-Expiration Date
+\\,
+Agreement,O
+with,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+dated,O
+6/17/06,O
+whereby,O
+the,O
+Portfolio,O
+will,O
+pay,B-Direction of Trade
+0.095%,B-Fixed Rate
+per,O
+year,O
+times,O
+the,O
+notional,O
+amount.The,O
+Portfolio,O
+receives,O
+a,O
+payment,O
+only,O
+upon,O
+a,O
+default,O
+event,O
+on,O
+the,O
+reference,O
+"entity,",O
+HSBC,B-Reference Entity
+"Bank,",I-Reference Entity
+PLC,I-Reference Entity

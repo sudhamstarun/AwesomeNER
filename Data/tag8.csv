@@ -1,0 +1,44 @@
+Token,NE
+"26,50,000",B-Notional Amount
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.12%,B-Fixed Rate
+per,O
+annum,O
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+"Pfizer,",B-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount,O
+of,O
+"Pfizer,",O
+"Inc.,",O
+"4.65%,",O
+3/1/18.,B-Expiration Date
+"$81,111",O
+\\,
