@@ -1,0 +1,126 @@
+Token,NE
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.77%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+FederationGovernment,I-Reference Entity
+"Bond,",I-Reference Entity
+"2.25%,due",O
+03/31/2030.Counterparty:,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+5/20/07,B-Expiration Date
+$,O
+400,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.61%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+FederationGovernment,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,due",O
+03/31/2030.Counterparty:,O
+Goldman,B-Counterparty
+SachsInternational,I-Counterparty
+3/20/07,B-Expiration Date
+"1,775",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.70%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+FederationGovernment,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,due",O
+03/31/2030.Counterparty:,O
+Goldman,B-Counterparty
+SachsInternational,I-Counterparty
+3/20/07,B-Expiration Date
+725,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+3.20%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+General,B-Reference Entity
+Motors,I-Reference Entity
+"AcceptanceCorp.,",I-Reference Entity
+"6.875%,",O
+due,O
+08/28/2012.Counterparty:,O
+Lehman,B-Counterparty
+"Securities,",I-Counterparty
+Inc.,I-Counterparty
+6/20/07,B-Expiration Date
+"1,200",B-Notional Amount
+14,O
+\\,

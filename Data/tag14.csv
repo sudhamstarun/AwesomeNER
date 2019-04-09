@@ -1,0 +1,284 @@
+Token,NE
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.77%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+05/20/2007,B-Expiration Date
+$,O
+400,B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.61%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+FederationGovernment,I-Reference Entity
+"Bond,5.00%,",I-Reference Entity
+due,O
+03/31/2030.Counterparty:,O
+Goldman,B-Counterparty
+SachsInternational,I-Counterparty
+03/20/2007,B-Expiration Date
+"1,775",B-Notional Amount
+c,O
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.55%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+FederationGovernment,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+03/31/2030.Counterparty:,O
+Credit,B-Counterparty
+SuisseFirst,I-Counterparty
+Boston,I-Counterparty
+09/07/05,B-Expiration Date
+900,B-Notional Amount
+c,O
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.70%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+thecounterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+ofdefault,O
+of,O
+Russian,B-Reference Entity
+FederationGovernment,I-Reference Entity
+"Bond,",I-Reference Entity
+"5.00%,",O
+due,O
+3/31/2030.Counterparty:,O
+Goldman,B-Counterparty
+SachsInternational,I-Counterparty
+03/20/2007,B-Expiration Date
+725,B-Notional Amount
+1,O
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.90%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+"Counterparty,",O
+in,O
+the,O
+event,O
+ofdefault,O
+on,O
+any,O
+of,O
+the,O
+securities,O
+in,O
+the,O
+DJ,B-Reference Entity
+CDX,I-Reference Entity
+HVOL.4,I-Reference Entity
+"Index,",I-Reference Entity
+theremaining,O
+interest,O
+payments,O
+onthose,O
+defaulted,O
+securities.Counterparty:,O
+Morgan,B-Counterparty
+Stanley,I-Counterparty
+Capital,I-Counterparty
+"Services,",I-Counterparty
+Inc.,I-Counterparty
+06/20/2010,B-Expiration Date
+"6,500",I-Expiration Date
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+3.20%,B-Fixed Rate
+and,O
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+General,B-Reference Entity
+Motors,I-Reference Entity
+Acceptance,I-Reference Entity
+"Corp.,",I-Reference Entity
+"6.875%,",O
+due,O
+8/28/2012Counterparty:,O
+Lehman,B-Counterparty
+"Securities,",I-Counterparty
+Inc.,I-Counterparty
+06/20/2007,B-Expiration Date
+$,O
+"1,200",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.58%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+Russian,B-Reference Entity
+Federation,I-Reference Entity
+Government,I-Reference Entity
+"Bond,5.00%,",I-Reference Entity
+due,O
+03/31/2030.Counterparty:,O
+Morgan,B-Counterparty
+StanleyCapital,I-Counterparty
+Services,I-Counterparty
+",",I-Counterparty
+Inc.,I-Counterparty
+06/20/2006,B-Expiration Date
+\\,
+"1,000",B-Notional Amount
+1,O
+Receive,B-Direction of Trade
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+2.80%and,B-Fixed Rate
+the,O
+Fund,O
+will,O
+pay,O
+to,O
+the,O
+counterparty,O
+at,O
+par,O
+in,O
+the,O
+event,O
+of,O
+default,O
+of,O
+General,B-Reference Entity
+Motors,I-Reference Entity
+Acceptance,I-Reference Entity
+"Corp.,6.875%,",I-Reference Entity
+due,O
+08/28/2012.Counterparty:,O
+JP,B-Counterparty
+Morgan,I-Counterparty
+Chase,I-Counterparty
+06/20/2006,B-Expiration Date
+"3,200",B-Notional Amount
+\\,

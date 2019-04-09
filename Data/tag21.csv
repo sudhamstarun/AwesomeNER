@@ -1,0 +1,313 @@
+Token,NE
+Receive,B-Direction of Trade
+monthly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+0.82%,B-Fixed Rate
+and,O
+pay,O
+UBS,B-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Morgan,B-Reference Entity
+Stanley,I-Reference Entity
+ABS,I-Reference Entity
+Capital,I-Reference Entity
+"I,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Morgan,O
+Stanley,O
+ABS,O
+Capital,O
+"I,",O
+Inc.,O
+Series,O
+2004.NC6,O
+Class,O
+"M3,",O
+5.64%,O
+7/25/34,O
+g,O
+August,B-Expiration Date
+2034,I-Expiration Date
+$,O
+"87,476",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+monthly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+0.85%,B-Fixed Rate
+and,O
+pay,O
+UBS,B-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Morgan,B-Reference Entity
+Stanley,I-Reference Entity
+ABS,I-Reference Entity
+Capital,I-Reference Entity
+"I,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Morgan,O
+Stanley,O
+ABS,O
+Capital,O
+"I,",O
+Inc.,O
+Series,O
+2004.NC8,O
+Class,O
+"M6,",O
+5.44%,O
+9/25/34,O
+g,O
+Oct.,B-Expiration Date
+2034,I-Expiration Date
+"1,05,288",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+monthly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+2.50%,B-Fixed Rate
+and,O
+pay,O
+Credit,B-Counterparty
+Suisse,I-Counterparty
+First,I-Counterparty
+Boston,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Ameriquest,B-Reference Entity
+Mortgage,I-Reference Entity
+"Securities,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Ameriquest,O
+Mortgage,O
+"Securities,",O
+Inc.,O
+Series,O
+2004.R11,O
+Class,O
+"M9,",O
+8.03%,O
+11/25/34,O
+Rating.C,O
+g,O
+Dec.,B-Expiration Date
+2034,I-Expiration Date
+"2,48,360",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+monthly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+2.54%,B-Fixed Rate
+and,O
+pay,O
+Merrill,B-Counterparty
+Lynch,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Countrywide,B-Reference Entity
+Home,I-Reference Entity
+"Loans,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Countrywide,O
+Home,O
+"Loans,",O
+Inc.,O
+Series,O
+2003.BC1,O
+Class,O
+"B1,",O
+7.69%,O
+3/25/32,O
+Rating.Ba1,O
+g,O
+April,B-Expiration Date
+2032,I-Expiration Date
+"36,015",B-Notional Amount
+\\,
+Receive,B-Direction of Trade
+monthly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+2.61%,B-Fixed Rate
+and,O
+pay,O
+Goldman,B-Counterparty
+Sachs,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Fremont,B-Reference Entity
+Home,I-Reference Entity
+Loan,I-Reference Entity
+"Trust,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Fremont,O
+Home,O
+Loan,O
+Trust,O
+Series,O
+2004.A,O
+Class,O
+"B3,",O
+7.04%,O
+1/25/34,O
+Rating.C,O
+g,O
+Feb.,B-Expiration Date
+2034,I-Expiration Date
+$,O
+806,B-Notional Amount
+$,O
+\\,
+Receive,B-Direction of Trade
+monthly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+3.05%,B-Fixed Rate
+and,O
+pay,O
+Merrill,B-Counterparty
+Lynch,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Morgan,B-Reference Entity
+Stanley,I-Reference Entity
+ABS,I-Reference Entity
+Capital,I-Reference Entity
+"I,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Morgan,O
+Stanley,O
+ABS,O
+Capital,O
+"I,",O
+Inc.,O
+Series,O
+"2004.NC8,",O
+Class,O
+"B3,",O
+7.29%,O
+9/25/34,O
+Rating.B1,O
+g,O
+Oct.,B-Expiration Date
+2034,I-Expiration Date
+"1,02,964",B-Notional Amount
+\\,s
+Receive,B-Direction of Trade
+monthly,O
+notional,O
+amount,O
+multiplied,O
+by,O
+3.35%,B-Fixed Rate
+and,O
+pay,O
+Morgan,B-Counterparty
+"Stanley,",I-Counterparty
+Inc.,I-Counterparty
+upon,O
+credit,O
+event,O
+of,O
+Morgan,B-Reference Entity
+Stanley,I-Reference Entity
+ABS,I-Reference Entity
+Capital,I-Reference Entity
+"I,",I-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+notional,O
+amount,O
+of,O
+Morgan,O
+Stanley,O
+ABS,O
+Capital,O
+"I,",O
+Inc.,O
+Series,O
+"2004.HE7,",O
+Class,O
+"B3,",O
+9.01%,O
+8/25/34,O
+Rating.C,O
+g,O
+Sept.,B-Expiration Date
+2034,I-Expiration Date
+"1,17,619",B-Notional Amount
+\\,

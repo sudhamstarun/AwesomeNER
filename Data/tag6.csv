@@ -1,0 +1,223 @@
+Token,NE
+7580,B-Notional Amount
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.45%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+AG,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX,I-Reference Entity
+N.A.December,I-Reference Entity
+2010,B-Expiration Date
+$52,I-Expiration Date
+\\,
+5150,B-Notional Amount
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.85%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX,I-Reference Entity
+N.A.December,I-Reference Entity
+2010,B-Expiration Date
+57,I-Expiration Date
+\\,
+1200,B-Notional Amount
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.46%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Centex,B-Reference Entity
+"Corp.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount.March,O
+2012,B-Expiration Date
+43,I-Expiration Date
+\\,
+1570,B-Notional Amount
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.55%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Deutsche,B-Counterparty
+Bank,I-Counterparty
+Securities,I-Counterparty
+Inc.,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Lennar,B-Reference Entity
+"Corp.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount.March,O
+2012,B-Expiration Date
+37,I-Expiration Date
+\\,
+16000,B-Notional Amount
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.35%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+one,O
+of,O
+the,O
+issues,O
+of,O
+Dow,B-Reference Entity
+Jones,I-Reference Entity
+CDX,I-Reference Entity
+N.A.June,I-Reference Entity
+2012,B-Expiration Date
+6,I-Expiration Date
+\\,
+2650,B-Notional Amount
+Pay,B-Direction of Trade
+quarterly,O
+a,O
+fixed,O
+rate,O
+equal,O
+to,O
+0.12%,B-Fixed Rate
+multiplied,O
+by,O
+the,O
+notional,O
+amount,O
+and,O
+receive,O
+from,O
+Barclays,B-Counterparty
+Bank,I-Counterparty
+plc,I-Counterparty
+upon,O
+each,O
+default,O
+event,O
+of,O
+Pfizer,B-Reference Entity
+"Inc.,",I-Reference Entity
+par,O
+value,O
+of,O
+the,O
+proportional,O
+notional,O
+amount.,O
+2017-03-01,B-Expiration Date
+6,I-Expiration Date
